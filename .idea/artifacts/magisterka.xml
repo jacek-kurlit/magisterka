@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="magisterka">
+    <output-path>$PROJECT_DIR$/out/artifacts/magisterka</output-path>
+    <root id="root">
+      <element id="archive" name="magisterka.jar">
+        <element id="module-output" name="magisterka" />
+      </element>
+    </root>
+  </artifact>
+</component>

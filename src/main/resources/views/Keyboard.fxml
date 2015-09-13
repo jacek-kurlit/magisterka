@@ -12,7 +12,7 @@
       <Pane id="keyboardPanel" layoutX="-9.0" layoutY="-10.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="346.0" prefWidth="961.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
             <TextField id="outputTextField" alignment="CENTER" layoutX="4.0" layoutY="14.0" prefHeight="25.0" prefWidth="953.0" />
-            <Button layoutX="14.0" layoutY="63.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="32.0" stylesheets="@style/keyboard.css" text="~" />
+            <Button layoutX="14.0" layoutY="63.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="32.0" stylesheets="@../style/keyboard.css" text="~" />
             <Button layoutX="112.0" layoutY="97.0" mnemonicParsing="false" styleClass="green" text="a" />
          </children>
       </Pane>

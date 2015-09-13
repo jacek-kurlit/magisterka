@@ -1,0 +1,9 @@
+.progress-bar {
+    -fx-accent: #5eb95e;
+    -fx-background-color: linear-gradient(
+        -fx-accent 0%,
+        -fx-accent 39%,
+        derive(-fx-accent, 10%) 20%,
+        derive(-fx-accent, 20%) 69%
+    );
+}
